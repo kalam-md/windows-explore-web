@@ -1,4 +1,4 @@
-# Kalam Mahardhika
+# Cara Install
 
 Halo! Saya **Kalam Mahardhika**, seorang calon kandidat **Fullstack Developer** di **Infokes**. Ini adalah repositori untuk tes Fullstack Developer yang telah saya kerjakan.
 
