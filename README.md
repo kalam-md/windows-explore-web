@@ -70,7 +70,7 @@ Halo! Saya **Kalam Mahardhika**, seorang calon kandidat **Fullstack Developer** 
 
 6. **Jalankan server backend:**
    ```bash
-   npm start
+   bun run dev
    ```
 
 7. **Akses aplikasi:**
