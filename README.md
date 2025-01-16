@@ -24,7 +24,7 @@ Halo! Saya **Kalam Mahardhika**, seorang calon kandidat **Fullstack Developer** 
 
 1. **Clone repository ini:**
    ```bash
-   git clone https://github.com/username/repo-name.git
+   git clone https://github.com/kalam-md/windows-explore-web.git
    cd repo-name
    ```
 
